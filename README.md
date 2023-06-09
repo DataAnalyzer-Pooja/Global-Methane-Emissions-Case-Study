@@ -21,7 +21,7 @@ Dataset used in this project has been downloaded from Kaggle. Dataset contains t
 # Deliverables
 The project includes the following:-
 - CSV [dataset](https://www.kaggle.com/datasets/kkhandekar/methane-emissions-across-the-world-19902018).
-- Post cleaned [Excel file](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/methane_emission_post_cleaned_file.xlsx).
+- Post cleaning [Excel file](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/methane_emission_post_cleaned_file.xlsx).
 - PowerPoint [presentation](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/Global_methane_emission_ppt.pptxz).
 
 # Process
