@@ -20,9 +20,9 @@ Dataset used in this project has been downloaded from Kaggle. Dataset contains t
 
 # Deliverables
 The project includes the following:-
-- CSV [dataset](https://www.kaggle.com/datasets/kkhandekar/methane-emissions-across-the-world-19902018).
+- CSV [Dataset](https://www.kaggle.com/datasets/kkhandekar/methane-emissions-across-the-world-19902018).
 - Post cleaning [Excel file](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/methane_emission_post_cleaned_file.xlsx).
-- PowerPoint [presentation](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/Global_methane_emission_ppt.pptx).
+- PowerPoint [Presentation](https://github.com/DataAnalyzer-Pooja/Global-Methane-Emissions-Case-Study/blob/main/Global_methane_emission_ppt.pptx).
 
 # Process
 - Filtered each column to investigate the existence of non-numeric values in numeric columns.
