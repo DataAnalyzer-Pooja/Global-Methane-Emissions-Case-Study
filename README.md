@@ -28,9 +28,9 @@ The project includes the following:-
 - Filtered each column to investigate the existence of non-numeric values in numeric columns.
 - Replaced NULLS with 0. 
 
-## Findings & Recommendations has been enclosed in the attached presentation. 
+## Findings & Recommendations have been enclosed in the attached presentation. 
 
-I hope this project helps you understand the methane emission trends. If you have any questions or suggestions, please don't hesitate to reach out.  
+I hope this project helps you understand methane emission trends. If you have any questions or suggestions, please don't hesitate to reach out.  
 - [LinkedIn](https://www.linkedin.com/in/contact-analyzer-pooja-verma)  
 - [NovyPro](https://www.novypro.com/profile_projects/poojaverma)
 
